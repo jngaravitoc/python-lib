@@ -1,16 +1,16 @@
 # python-lib
 Usefull Python libraries
 
-1. Astronomy:
+## Astronomy:
 
-pyfits http://pythonhosted.org/pyfits/users_guide/users_tutorial.html
+1. pyfits http://pythonhosted.org/pyfits/users_guide/users_tutorial.html
 
-astropy http://www.astropy.org/
+2. astropy http://www.astropy.org/
 
-2. Monte-Carlo: 
+## Monte-Carlo: 
 
-emcee http://dan.iel.fm/emcee/current/
+1. emcee http://dan.iel.fm/emcee/current/
 
-3. Image analysis:
+## Image analysis:
 
-scikits-image http://scikit-image.org/
+1. scikits-image http://scikit-image.org/

@@ -13,9 +13,17 @@ Usefull Python libraries
 
 5. galpy (https://github.com/jobovy/galpy)
 
-6. astroplotlib (http://astroplotlib.stsci.edu/) 
+6. astroplotlib (http://astroplotlib.stsci.edu/)
 
+7. astroquery (http://astroquery.readthedocs.org/en/latest/) 
 
+## Visualization:
+
+1. mpld3 (http://mpld3.github.io/)
+
+2.  prettyplot (http://blog.olgabotvinnik.com/prettyplotlib/)
+
+3.  JSAnimation (https://github.com/jakevdp/JSAnimation)
 
 ## Monte-Carlo: 
 

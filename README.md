@@ -3,19 +3,21 @@ Usefull Python libraries
 
 ## Astronomy:
 
-1. pyfits (http://pythonhosted.org/pyfits/users_guide/users_tutorial.html)
+1. pyfits (http://pythonhosted.org/pyfits/users_guide/users_tutorial.html) [Reading FITS files]
 
-2. astropy (http://www.astropy.org/)
+2. astropy (http://www.astropy.org/) 
 
-3. pyraf (http://www.stsci.edu/institute/software_hardware/pyraf)
+3. pyraf (http://www.stsci.edu/institute/software_hardware/pyraf) [Iraf]
 
-4. pyephem (https://github.com/brandon-rhodes/pyephem)
+4. pyephem (https://github.com/brandon-rhodes/pyephem) [Ephemerides]
 
-5. galpy (https://github.com/jobovy/galpy)
+5. galpy (https://github.com/jobovy/galpy) [Galaxy dynamics]
 
 6. astroplotlib (http://astroplotlib.stsci.edu/)
 
 7. astroquery (http://astroquery.readthedocs.org/en/latest/) 
+
+8. astroML (https://github.com/astroML/astroML) [Machine learning] 
 
 ## Visualization:
 
@@ -23,7 +25,7 @@ Usefull Python libraries
 
 2.  prettyplot (http://blog.olgabotvinnik.com/prettyplotlib/)
 
-3.  JSAnimation (https://github.com/jakevdp/JSAnimation)
+3.  JSAnimation (https://github.com/jakevdp/JSAnimation) 
 
 ## Monte-Carlo: 
 

@@ -27,6 +27,8 @@ Usefull Python libraries
 
 3.  JSAnimation (https://github.com/jakevdp/JSAnimation) 
 
+4. py-sphviewer (https://github.com/alejandrobll/py-sphviewer) [rendering cosmological simulations]
+
 ## Monte-Carlo: 
 
 1. emcee (http://dan.iel.fm/emcee/current/)

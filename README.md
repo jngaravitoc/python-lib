@@ -19,22 +19,26 @@ Usefull Python libraries
 
 - astroML (https://github.com/astroML/astroML) [Machine learning] 
 
-## Visualization:
+## Image analysis:
 
-- mpld3 (http://mpld3.github.io/)
+- scikits-image (http://scikit-image.org/)
 
--  prettyplot (http://blog.olgabotvinnik.com/prettyplotlib/)
+## Machine Learning:
 
--  JSAnimation (https://github.com/jakevdp/JSAnimation) 
-
-- py-sphviewer (https://github.com/alejandrobll/py-sphviewer) [rendering cosmological simulations]
-
-- Bokeh (http://bokeh.pydata.org/en/latest/index.html) [interactive visualization library for web browsers] 
+- empca (https://github.com/sbailey/empca/) [PCA for noise data]
 
 ## Monte-Carlo: 
 
 - emcee (http://dan.iel.fm/emcee/current/)
 
-## Image analysis:
+## Visualization:
 
-- scikits-image (http://scikit-image.org/)
+- mpld3 (http://mpld3.github.io/)
+
+- prettyplot (http://blog.olgabotvinnik.com/prettyplotlib/)
+
+- JSAnimation (https://github.com/jakevdp/JSAnimation) 
+
+- py-sphviewer (https://github.com/alejandrobll/py-sphviewer) [rendering cosmological simulations]
+
+- Bokeh (http://bokeh.pydata.org/en/latest/index.html) [interactive visualization library for web browsers] 

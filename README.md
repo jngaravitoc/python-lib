@@ -27,6 +27,8 @@ Usefull Python libraries
 
 - empca (https://github.com/sbailey/empca/) [PCA for noise data]
 
+- scikit-learn (http://scikit-learn.org/stable/) 
+
 ## Monte-Carlo: 
 
 - emcee (http://dan.iel.fm/emcee/current/)

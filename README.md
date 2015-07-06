@@ -1,5 +1,5 @@
 # python-lib
-Usefull Python libraries
+Useful Python libraries
 
 ## Astronomy:
 

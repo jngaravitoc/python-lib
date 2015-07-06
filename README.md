@@ -19,6 +19,12 @@ Usefull Python libraries
 
 - astroML (https://github.com/astroML/astroML) [Machine learning] 
 
+- gatspy (https://github.com/astroml/gatspy/) [General tools for Astronomical Time Series in Python]
+ 
+## High Performance Computing:
+
+- Dask (http://dask.pydata.org/en/latest/) [Parallel Computing]
+
 ## Image analysis:
 
 - scikits-image (http://scikit-image.org/)

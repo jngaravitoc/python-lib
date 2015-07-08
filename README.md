@@ -20,6 +20,10 @@ Useful Python libraries
 - astroML (https://github.com/astroML/astroML) [Machine learning] 
 
 - gatspy (https://github.com/astroml/gatspy/) [General tools for Astronomical Time Series in Python]
+
+## Big Data:
+
+- blaze (http://continuum.io/blog/blaze) 
  
 ## High Performance Computing:
 

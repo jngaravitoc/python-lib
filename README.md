@@ -21,6 +21,8 @@ Useful Python libraries
 
 - gatspy (https://github.com/astroml/gatspy/) [General tools for Astronomical Time Series in Python]
 
+- py-sphviewer (https://github.com/alejandrobll/py-sphviewer) [Rendering cosmological simulations]
+
 ## Big Data:
 
 - blaze (http://continuum.io/blog/blaze) 
@@ -54,3 +56,7 @@ Useful Python libraries
 - py-sphviewer (https://github.com/alejandrobll/py-sphviewer) [rendering cosmological simulations]
 
 - Bokeh (http://bokeh.pydata.org/en/latest/index.html) [interactive visualization library for web browsers] 
+
+- APLpy (http://aplpy.github.io/)  [producing publication-quality plots of astronomical imaging data in FITS format]
+
+

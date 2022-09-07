@@ -1,7 +1,7 @@
 # python-lib
-Useful Python libraries
+Libraries and codes used for my research
 
-## Astronomy:
+##  Observational Astronomy:
 
 - pyfits (http://pythonhosted.org/pyfits/users_guide/users_tutorial.html) [Reading FITS files]
 
@@ -11,8 +11,6 @@ Useful Python libraries
 
 - pyephem (https://github.com/brandon-rhodes/pyephem) [Ephemerides]
 
-- galpy (https://github.com/jobovy/galpy) [Galaxy dynamics]
-
 - astroplotlib (http://astroplotlib.stsci.edu/)
 
 - astroquery (http://astroquery.readthedocs.org/en/latest/) 
@@ -21,11 +19,35 @@ Useful Python libraries
 
 - gatspy (https://github.com/astroml/gatspy/) [General tools for Astronomical Time Series in Python]
 
+## Galactic Dynamics: 
+
+- Agama 
+- EXP 
+- Gala 
+- galpy (https://github.com/jobovy/galpy) [Galaxy dynamics]
+
+
+
+## Cosmology 
+
+- Corrfunc (https://corrfunc.readthedocs.io/en/master/index.html)[Computes two-point correlation functions]
+
+## Cosmological simulations 
+
 - py-sphviewer (https://github.com/alejandrobll/py-sphviewer) [Rendering cosmological simulations]
 
-## Big Data:
+- pynbody 
 
-- blaze (http://continuum.io/blog/blaze) 
+- FIRE suite: gizmo
+
+- Auriga 
+
+- https://github.com/shergreen/SatGen
+
+- Rockstar 
+
+
+
  
 ## High Performance Computing:
 
@@ -44,6 +66,7 @@ Useful Python libraries
 ## Monte-Carlo: 
 
 - emcee (http://dan.iel.fm/emcee/current/)
+- pymc3 
 
 ## Visualization:
 
@@ -57,6 +80,8 @@ Useful Python libraries
 
 - Bokeh (http://bokeh.pydata.org/en/latest/index.html) [interactive visualization library for web browsers] 
 
-- APLpy (http://aplpy.github.io/)  [producing publication-quality plots of astronomical imaging data in FITS format]
+- APLpy (http://aplpy.github.io/)[producing publication-quality plots of astronomical imaging data in FITS format]
+
+- Glue (http://glueviz.org/)[Link datasets - very uuseful for high dimensional data]
 
 
